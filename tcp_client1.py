@@ -5,6 +5,7 @@ tcp循环模型客户端1
 
 from socket import *
 
+#修改
 # 创建tcp套接字
 tcp_socket = socket()
 
