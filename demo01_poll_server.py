@@ -1,6 +1,4 @@
-"""
-基于poll方法实现IO并发
-"""
+
 
 from socket import *
 from select import *
